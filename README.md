@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Jan and im begginer front-end developer. I am a second year computer science student at collegium da vinci in Poznań.
+
+
 <!--
 **kwiatkowskijan/kwiatkowskijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
