@@ -10,15 +10,20 @@ My name is Jan and im begginer front-end developer. I am a second year computer 
 
 ---
 
-My skills: <br>
+<h3>My skills:</h3>
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,git,wordpress)](https://skillicons.dev)
 
-Currently learning: <br>
+<h3>Currently learning:</h3>
 [![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&layout=compact&theme=dracula)
+
+---
+
+Currently working on: <br>
+
 
 
 <!--
