@@ -2,7 +2,11 @@
 
 My name is Jan and im begginer front-end developer. I am a second year computer science student at Collegium Da Vinci in Poznań.
 
-Currently learning: Angular
+My skills:
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,git)](https://skillicons.dev)
+
+Currently learning:
+[![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 
 
 <!--
