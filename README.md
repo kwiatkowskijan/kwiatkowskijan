@@ -10,7 +10,7 @@ Currently learning: <br>
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&layout=compact&theme=dracula)
 
 
 <!--
