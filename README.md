@@ -6,11 +6,11 @@
 
 ---
 
-My name is Jan and im begginer front-end developer. I am a second year computer science student at Collegium Da Vinci in Poznań.
+<p align="center">My name is Jan and im begginer front-end developer. I am a second year computer science student at Collegium Da Vinci in Poznań.</p>
 
 ---
 
-<p align="center">My skills:</p>
+My skills: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,git,wordpress)](https://skillicons.dev)
 
 Currently learning: <br>
