@@ -24,7 +24,13 @@ Currently learning: <br>
 
 Currently working on: <br><br>
 Nba League App  <br><br>
-My first major angular project. The project is a combination of my two greatest passions: basketball and programming. The application is supposed to include such functionalities as: tracking the results of NBA matches, tracking statistics, displaying news about NBA.
+My first major angular project. The project is a combination of my two greatest passions: basketball and programming. The application is supposed to include such functionalities as: 
+<ul>
+<li>>tracking the results of NBA matches</li>
+<li>tracking statistics</li>
+<li>displaying news about NBA</li>
+</ul>
+Gonna update up-to-date
 
 <!--
 **kwiatkowskijan/kwiatkowskijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
