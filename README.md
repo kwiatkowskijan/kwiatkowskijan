@@ -10,10 +10,10 @@ My name is Jan and im begginer front-end developer. I am a second year computer 
 
 ---
 
-<h3>My skills:</h3>
+My skills: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,git,wordpress)](https://skillicons.dev)
 
-<h3>Currently learning:</h3>
+Currently learning: <br>
 [![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 
 ---
