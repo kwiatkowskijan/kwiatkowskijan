@@ -10,7 +10,7 @@ My name is Jan and im begginer front-end developer. I am a second year computer 
 
 ---
 
-My skills: <br>
+<p align="center">My skills:</p>
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,git,wordpress)](https://skillicons.dev)
 
 Currently learning: <br>
