@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm Jason.</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jan-kwiatkowski-633215271/">LinkedIn</a> •
+</p>
 
 My name is Jan and im begginer front-end developer. I am a second year computer science student at Collegium Da Vinci in Poznań.
 
