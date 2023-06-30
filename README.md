@@ -2,11 +2,15 @@
 
 My name is Jan and im begginer front-end developer. I am a second year computer science student at Collegium Da Vinci in Poznań.
 
-<h2>My skills:</h2>
+My skills: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,git,wordpress)](https://skillicons.dev)
 
 Currently learning: <br>
 [![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 
 <!--
