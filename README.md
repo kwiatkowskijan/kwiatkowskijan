@@ -4,7 +4,11 @@
   <a href="https://www.linkedin.com/in/jan-kwiatkowski-633215271/">LinkedIn</a>
 </p>
 
+---
+
 My name is Jan and im begginer front-end developer. I am a second year computer science student at Collegium Da Vinci in Poznań.
+
+---
 
 My skills: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,git,wordpress)](https://skillicons.dev)
@@ -12,7 +16,7 @@ My skills: <br>
 Currently learning: <br>
 [![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 
-<br>
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&layout=compact&theme=dracula)
 
