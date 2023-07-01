@@ -9,17 +9,15 @@
 <p align="center">My name is Jan and im begginer front-end developer. I am a second year computer science student at Collegium Da Vinci in Poznań.</p>
 
 ---
-
+<div align="center">
 My skills: <br>
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,git,wordpress)](https://skillicons.dev)
 
 Currently learning: <br>
 [![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&layout=compact&theme=dracula)
-
+</div>
 ---
 
 Currently working on: <br><br>
