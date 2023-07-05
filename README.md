@@ -22,8 +22,8 @@
 
 <h3>Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=kwiatkowskijan&theme=dracula&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kwiatkowskijan&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=kwiatkowskijan&theme=dracula&include_all_commits=false&count_private=false) <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kwiatkowskijan&theme=dracula) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&theme=dracula&include_all_commits=false&count_private=false&layout=compact)
 
 ---
