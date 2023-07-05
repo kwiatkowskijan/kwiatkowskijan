@@ -1,6 +1,6 @@
-👋 Hello! I'm Jan.
+<h2 align="center">👋 Hello! I'm Jan.</h2>
 
-<a href="https://www.linkedin.com/in/jan-kwiatkowski-633215271/">LinkedIn</a>
+<a align="center" href="https://www.linkedin.com/in/jan-kwiatkowski-633215271/">LinkedIn</a>
 
 
 ---
@@ -9,29 +9,34 @@
 
 ---
 
-My skills: <br>
+<h3>My skills:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,git,wordpress)](https://skillicons.dev)
 
-Currently learning: <br>
+<h3>Currently learning:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
 
 
 ---
 
+<h3>Stats</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&layout=compact&theme=dracula)
 
 ---
 
-Currently working on: <br><br>
-Nba League App  <br><br>
-My first major angular project. The project is a combination of my two greatest passions: basketball and programming. The application is supposed to include such functionalities as: 
+<h3>Currently working on:</h3>
+
+<h4>Nba League App</h4>
+<p>My first major angular project. The project is a combination of my two greatest passions: basketball and programming. The application is supposed to include such functionalities as: 
 <ul>
 <li>Tracking the results of NBA matches</li>
 <li>Tracking statistics</li>
 <li>Displaying news about NBA</li>
 </ul><br>
 Gonna update up-to-date
-
+</p>
 <!--
 **kwiatkowskijan/kwiatkowskijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
