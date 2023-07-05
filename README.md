@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Jan.</h2>
 
-<a align="center" href="https://www.linkedin.com/in/jan-kwiatkowski-633215271/">LinkedIn</a>
+<p align="center"><a href="https://www.linkedin.com/in/jan-kwiatkowski-633215271/">LinkedIn</a></p>
 
 
 ---
