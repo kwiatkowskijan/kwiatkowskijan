@@ -1,8 +1,7 @@
-<h3 align="center">👋 Hello! I'm Jan.</h3>
+👋 Hello! I'm Jan.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jan-kwiatkowski-633215271/">LinkedIn</a>
-</p>
+<a href="https://www.linkedin.com/in/jan-kwiatkowski-633215271/">LinkedIn</a>
+
 
 ---
 
