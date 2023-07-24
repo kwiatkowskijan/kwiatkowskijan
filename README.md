@@ -46,7 +46,7 @@ Gonna update up-to-date
 
 <h3>I'm also a freelancer creating websites:</h3>
 
-<h4><a href="https://crimzone.eu>"Crimzone.eu</a></h4>
+<a href="https://crimzone.eu>"Crimzone.eu</a>
 <ul>
 <li>E-commerce store for clothing brand</li>
 <li>Made with WooCommerce and Elementor</li>
