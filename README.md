@@ -22,23 +22,19 @@
 
 <h3>Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=kwiatkowskijan&theme=dracula&include_all_commits=false&count_private=false) <br>
+![](https://github-readme-stats.vercel.app/api?username=kwiatkowskijan&theme=tokyonight&include_all_commits=false&count_private=false) <br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kwiatkowskijan&theme=dracula) <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kwiatkowskijan&theme=tokyonight) <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&theme=dracula&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&theme=tkoyonight&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 <h3>Currently working on:</h3>
 
-<h4>Nba League App</h4>
-<p>My first major angular project. The project is a combination of my two greatest passions: basketball and programming. The application is supposed to include such functionalities as: 
-<ul>
-<li>Tracking the results of NBA matches</li>
-<li>Tracking statistics</li>
-<li>Displaying news about NBA</li>
-</ul><br>
+<h4>Simple 2D RougeLike game in Unity</h4>
+<p>My first major Unity project inspired by The Binding Of Isaac series.
+<br>
 Gonna update up-to-date
 </p>
 
@@ -50,4 +46,10 @@ Gonna update up-to-date
 <ul>
 <li>E-commerce store for clothing brand</li>
 <li>Made with WooCommerce and Elementor</li>
+</ul>
+
+<h4><a href="https://rzanna.pl">Rzanna.pl</a></h4>
+<ul>
+<li>Simple website with shop function</li>
+<li>Made with Wordpress Elementor</li>
 </ul>
