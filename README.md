@@ -15,7 +15,7 @@
 
 <h3>Currently learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
 
 
 ---
