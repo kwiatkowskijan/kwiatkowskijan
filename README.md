@@ -26,7 +26,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kwiatkowskijan&theme=tokyonight) <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&theme=tkoyonight&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&theme=tokyonight&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
