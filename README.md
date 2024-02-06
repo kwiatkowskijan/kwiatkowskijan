@@ -11,12 +11,7 @@
 
 <h3>My skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,git,wordpress)](https://skillicons.dev)
-
-<h3>Currently learning:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,html,js,css,git,wordpress)](https://skillicons.dev)
 
 ---
 
