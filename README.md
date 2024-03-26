@@ -15,16 +15,6 @@
 
 ---
 
-<h3>Stats:</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=kwiatkowskijan&theme=tokyonight&include_all_commits=false&count_private=true) <br>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kwiatkowskijan&theme=tokyonight) <br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&theme=tokyonight&include_all_commits=false&count_private=true&layout=compact)
-
----
-
 <h3>Currently working on:</h3>
 
 <h4>Simple 2D RougeLike game in Unity</h4>
@@ -32,6 +22,16 @@
 <br>
 Gonna update up-to-date
 </p>
+
+---
+
+<h3>Stats:</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=kwiatkowskijan&theme=tokyonight&include_all_commits=false&count_private=true) <br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kwiatkowskijan&theme=tokyonight) <br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwiatkowskijan&theme=tokyonight&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
