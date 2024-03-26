@@ -48,3 +48,9 @@ Gonna update up-to-date
 <li>Simple website with shop function</li>
 <li>Made with Wordpress Elementor</li>
 </ul>
+
+<h4><a href="https://shape-up.pl">Shape-up.pl</a></h4>
+<ul>
+<li>Simple website for gym</li>
+<li>Made with Wordpress Elementor</li>
+</ul>
