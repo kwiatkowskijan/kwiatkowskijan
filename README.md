@@ -17,11 +17,8 @@
 
 <h3>Currently working on:</h3>
 
-<h4>Simple 2D RougeLike game in Unity</h4>
-<p>My first major Unity project inspired by The Binding Of Isaac series.
-<br>
-Gonna update up-to-date
-</p>
+<h4>Japan Platformer (working title)</h4>
+<p>Uni project. 3D Runner/Puzzle game made with Unity</p>
 
 ---
 
