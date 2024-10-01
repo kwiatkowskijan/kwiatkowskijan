@@ -15,16 +15,6 @@
 
 ---
 
-<h3>Currently working on:</h3>
-
-<h4>Japan Platformer (working title)</h4>
-<p>Uni project. 3D Runner/Puzzle game made with Unity</p> <br><br>
-
-<h4>040Basket</h4>
-<p>Uni/personal project. Basketball leauge page.</p>
-
----
-
 <h3>Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=kwiatkowskijan&theme=tokyonight&include_all_commits=false&count_private=true) <br>
