@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">My name is Jan and im begginer game developer. I am a second year computer science student at Collegium Da Vinci in Poznań.</p>
+<p align="center">My name is Jan and im begginer game developer. I am a third year computer science student at Collegium Da Vinci in Poznań.</p>
 
 ---
 
