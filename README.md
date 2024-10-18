@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">My name is Jan and im begginer game developer. I am a third year computer science student at Collegium Da Vinci in Poznań.</p>
+<p align="center">I am a 22-year-old computer science student with a deep passion for programming and game development. I have gained my first professional experience and feel ready to take the next steps as a programmer. I am highly motivated and eager to grow, and combined with my strong communication skills, this will make me a valuable member of any team.</p>
 
 ---
 
