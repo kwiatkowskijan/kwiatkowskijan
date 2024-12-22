@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Jan.</h2>
 
-<p align="center"><a href="https://www.linkedin.com/in/jan-kwiatkowski-633215271/">LinkedIn</a> <a href="https://guad3lup3.itch.io">Itch.io</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/jan-kwiatkowski-633215271/">LinkedIn</a>
 
 ---
 
