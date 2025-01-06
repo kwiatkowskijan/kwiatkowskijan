@@ -14,6 +14,13 @@
 
 ---
 
+<h3>Currently wokring on:</h3>
+
+<h4>040Basket Tournament Manager</h4>
+<p>Basketball tournament managment system made with Angular19</p>
+
+---
+
 <h3>Stats:</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=kwiatkowskijan&theme=tokyonight&include_all_commits=false&count_private=true) <br>
