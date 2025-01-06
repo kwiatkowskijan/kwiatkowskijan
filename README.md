@@ -18,7 +18,8 @@
 
 <h4>040Basket Tournament Manager</h4>
 <p>Basketball tournament managment system made with Angular19 🏀🗑️</p>
-![alt text](https://github.com/kwiatkowskijan/kwiatkowskijan/blob/main/040basket.png)
+![040basket](https://github.com/user-attachments/assets/924ca8ca-2022-46b6-a645-916097349873)
+
 ---
 
 <h3>Stats:</h3>
