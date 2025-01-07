@@ -10,7 +10,7 @@
 
 <h3>My skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,html,css,js,ts,angular,php,git,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,html,css,js,ts,angular,php,wordpress,git)](https://skillicons.dev)
 
 ---
 
