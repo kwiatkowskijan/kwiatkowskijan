@@ -18,7 +18,7 @@
 
 <h4>040Basket Tournament Manager</h4>
 <p>Basketball tournament managment system made with Angular19 🏀🗑️</p>
-![040basket](040basket.png)
+![040basket](/040basket.png)
 
 ---
 
