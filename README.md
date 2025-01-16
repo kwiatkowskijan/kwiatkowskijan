@@ -16,7 +16,7 @@
 
 <h3>Currently wokring on:</h3>
 
-<h4>040Basket Tournament Manager</h4>
+<h4>040Tournaments</h4>
 <p>Basketball tournament managment system made with Angular19 🏀🗑️</p>
 <img src="https://github.com/kwiatkowskijan/kwiatkowskijan/blob/main/040basket.png" width="800px">
 
