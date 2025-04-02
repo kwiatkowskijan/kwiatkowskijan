@@ -4,10 +4,6 @@
 
 ---
 
-<p align="center">I am a 22-year-old computer science student with a deep passion for programming. I have gained my first professional experience and feel ready to take the next steps as a programmer.</p>
-
----
-
 <h3>My skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,angular,nest,cs,unity,php,wordpress,git)](https://skillicons.dev)
