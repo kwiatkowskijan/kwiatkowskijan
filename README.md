@@ -13,7 +13,7 @@
 <h3>Currently wokring on:</h3>
 
 <h4>040Tournaments</h4>
-<p>Basketball tournament managment system made with Angular19 🏀🗑️</p>
+<p>Basketball tournaments managment system made with Angular and NestJS 🏀🗑️</p>
 <img src="https://github.com/kwiatkowskijan/kwiatkowskijan/blob/main/040basket2.png" width="800px">
 
 ---
