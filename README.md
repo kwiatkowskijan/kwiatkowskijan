@@ -1,7 +1,8 @@
-<h2 align="center">👋 Hello! I'm Jan.</h2>
+<h2>👋 Hello! I'm Jan.</h2>
 <h3>Frontend developer</h3>
 ---
 <h3>My stack:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,angular,nodejs,nest,git)](https://skillicons.dev)
 
 ---
