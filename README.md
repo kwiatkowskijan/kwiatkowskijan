@@ -5,7 +5,7 @@
 
 <h3>My stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,angular,nodejs,nest,git,unity,csharp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,angular,nodejs,nest,git,unity,cs)](https://skillicons.dev)
 
 ---
 
